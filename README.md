@@ -20,7 +20,7 @@ In this visualization, I graphed the length of time that bikes are checked out f
 
 In this visualization, I graphed the number of bike trips by weekday for each hour of the day as a heatmap. Looking at the graph, during the weekdays, 8am and 5-6pm were the most popular times to ride bikes. 
 
-![graph 4](https://user-images.githubusercontent.com/74915619/122997960-81146380-d37a-11eb-88a4-8979e2bad708.png)
+![graph 4](https://user-images.githubusercontent.com/74915619/123009119-23881300-d38a-11eb-93d6-aa95ab7e6f2a.png)
 
 In this visualization, I graphed number of bike trips by gender for each hour for each day of the week as a heatmap. As I stated above, the popular times are 8am and 5-6pm and looking at this new graph by gender, the male gender make up most of the population that rides during those times. 
 
